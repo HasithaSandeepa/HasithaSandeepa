@@ -9,10 +9,10 @@
 
 ## :sassy_man:  About me
 
-•👩‍🎓  I am a `Undergraduate` at Faculty of Technology, Universicy of Ruhuna
-•👌  I’m interested in `Programming`.
-•❤️ I’m looking to collaborate on `programmers`.
-•🤞  Always `learning new things`
+•👩‍🎓  I am a `Undergraduate` at Faculty of Technology, Universicy of Ruhuna<br>
+•👌  I’m interested in `Programming`.<br>
+•❤️ I’m looking to collaborate on `programmers`.<br>
+•🤞  Always `learning new things`<br>
 
 <br>
 
