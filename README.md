@@ -1,92 +1,114 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:071B17,45:0B493C,100:00D9A6&text=HASITHA%20SANDEEPA&fontColor=FFFFFF&fontSize=44&fontAlignY=37&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=17&animation=fadeIn" alt="Hasitha Sandeepa banner" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=00D9A6&center=true&vCenter=true&width=750&lines=%3E+Building+for+web+%26+mobile;%3E+Learning+something+new+every+day;%3E+Turning+ideas+into+useful+products;%3E+Open+to+collaborations+%26+cool+projects" alt="Typing animation" /></a>
+
+<a href="https://www.linkedin.com/in/hasitha-sandeepa/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9A6" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/hasitha.sandeepa.923"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=00D9A6" alt="Facebook" /></a>
+<a href="https://wa.me/94774958618"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00D9A6" alt="WhatsApp" /></a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=HasithaSandeepa&label=Profile%20views&color=00B894&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-00B894?style=flat-square&labelColor=0D1117" alt="Open to collaboration" />
+
 </div>
 
-```bash
-hasitha@dev-machine:~$ whoami
-```
+---
+
+### `hasitha@dev:~$ whoami`
+
 ```yaml
-Name        : Hasitha Sandeepa
-Role        : Undergraduate @ Faculty of Technology, University of Ruhuna
-Status      : [■■■■■■■■□□] Compiling knowledge...
-Focus       : Web & Mobile App Development
-Stack       : React · Flutter · Firebase · Angular
-Currently   : Learning React & Flutter deeper
-Looking for : Open-source collabs & interesting bugs to fix
-Fun fact    : console.log("still debugging life") // works on my machine
+name: Hasitha Sandeepa
+location: Sri Lanka 🇱🇰
+education: Undergraduate, Faculty of Technology — University of Ruhuna
+role: Aspiring Software Developer
+interests: [Web Development, Mobile Apps, UI/UX, Open Source]
+current_focus: [React, Flutter]
+working_with: [React, Angular, Flutter, Firebase]
+mindset: "Build. Break. Debug. Learn. Repeat."
 ```
 
+### `hasitha@dev:~$ cat about-me.md`
+
+I'm a technology undergraduate who enjoys transforming ideas into practical digital experiences. My interests span **modern web applications**, **cross-platform mobile development**, and creating interfaces that feel as good as they work.
+
+- 🚀 Building skills in **React** and **Flutter**, one project at a time.
+- 🧩 Enjoy solving problems, exploring new tools, and debugging the unexpected.
+- 🌱 Growing through hands-on projects, experimentation, and continuous learning.
+- 🤝 Happy to collaborate on **open-source projects**, apps, and creative ideas.
+- ⚡ Developer motto: `it works on my machine` is only the beginning.
+
+### `hasitha@dev:~$ ls ./toolbox`
+
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&background=0D111700&center=true&vCenter=true&width=650&lines=%24+npm+run+build-future;%24+git+commit+-m+%22always+learning%22;%24+sudo+make+dreams+--real;%24+console.log(%22hello%2C+world%22)" />
-</a>
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,angular,flutter,dart,js,css,bootstrap&theme=dark" alt="Frontend and mobile stack" />
+
+**Backend, Data & Languages**
+
+<img src="https://skillicons.dev/icons?i=firebase,mysql,py,java,c,php&theme=dark" alt="Backend, data, and programming languages" />
+
+**Design & Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,linux,arduino&theme=dark" alt="Design and development tools" />
 
 </div>
 
-<br>
-
-### `$ cat tech-stack.json`
+### `hasitha@dev:~$ ./progress --live`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,angular,flutter,dart,firebase,js,py,java,c,php,mysql,figma,arduino,linux,css,bootstrap,vscode,git&theme=dark" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=HasithaSandeepa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9A6&icon_color=00D9A6&text_color=DFEAE7" alt="GitHub stats" />
+<img width="48%" src="https://streak-stats.demolab.com?user=HasithaSandeepa&hide_border=true&background=0D1117&ring=00D9A6&fire=00D9A6&currStreakLabel=00D9A6&sideLabels=DFEAE7&dates=9BAFA9" alt="GitHub streak" />
+
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasithaSandeepa&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9A6&text_color=DFEAE7&langs_count=8" alt="Most-used languages" />
+
+<sub>Stats are generated by third-party services and may occasionally be unavailable.</sub>
 
 </div>
 
-<br>
-
-### `$ ./run-diagnostics.sh --stats`
+### `hasitha@dev:~$ git log --graph --pretty=oneline`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=HasithaSandeepa&theme=dracula&hide_border=true&border_radius=10&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasithaSandeepa&bg_color=0d1117&color=00d9a6&line=00b894&point=ffffff&area=true&area_color=00b894&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
-<br>
+### `hasitha@dev:~$ cat roadmap.yml`
 
-### `$ git log --graph --oneline --all`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HasithaSandeepa&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="90%"/>
-
-</div>
-
-<br>
-
-### `$ cat contact.env`
-
-<div align="center">
-
-```env
-LINKEDIN = "https://www.linkedin.com/in/hasitha-sandeepa/"
-FACEBOOK = "https://www.facebook.com/hasitha.sandeepa.923"
-WHATSAPP = "https://wa.me/94774958618"
-STATUS   = "open_to_work=true"
+```yaml
+now:
+  - Deepen React fundamentals and component architecture
+  - Build polished Flutter mobile experiences
+next:
+  - Explore scalable app patterns and backend integrations
+  - Contribute to open-source repositories
+always:
+  - Ship projects, write cleaner code, and stay curious
 ```
 
-<a href="https://www.linkedin.com/in/hasitha-sandeepa/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117" />
-</a>
-<a href="https://www.facebook.com/hasitha.sandeepa.923" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00ff41&labelColor=0d1117" />
-</a>
-<a href="https://wa.me/94774958618" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00ff41&labelColor=0d1117" />
-</a>
+### `hasitha@dev:~$ ./connect.sh`
 
-<br><br>
+Have a project idea, an open-source issue, or a problem worth solving? **Let's build something useful together.**
 
-<img src="https://komarev.com/ghpvc/?username=HasithaSandeepa&label=terminal_visits&color=0d1117&style=for-the-badge&labelColor=000000" />
+<div align="center">
 
-</div>
+<a href="https://www.linkedin.com/in/hasitha-sandeepa/"><img src="https://img.shields.io/badge/Let's%20connect-LinkedIn-00B894?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://wa.me/94774958618"><img src="https://img.shields.io/badge/Start%20a%20conversation-WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp" /></a>
 
-```bash
-hasitha@dev-machine:~$ echo "thanks for stopping by"
-> thanks for stopping by
-hasitha@dev-machine:~$ _
+<br /><br />
+
+```text
+$ echo "Thanks for visiting!"
+Thanks for visiting! 👋
+$ git commit -m "keep learning, keep building"
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0d1117,100:000000&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00D9A6,55:0B493C,100:071B17" alt="Footer wave" />
+
+</div>
