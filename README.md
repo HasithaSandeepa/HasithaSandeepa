@@ -1,8 +1,8 @@
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:071B17,45:0B493C,100:00D9A6&text=HASITHA%20SANDEEPA&fontColor=FFFFFF&fontSize=44&fontAlignY=37&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=17&animation=fadeIn" alt="Hasitha Sandeepa banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:071B17,45:0B493C,100:00D9A6&text=HASITHA%20SANDEEPA&fontColor=FFFFFF&fontSize=44&fontAlignY=37&desc=ICT%20Professional%20%7C%20Web%20Developer%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=15&animation=fadeIn" alt="Hasitha Sandeepa banner" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=00D9A6&center=true&vCenter=true&width=750&lines=%3E+Building+for+web+%26+mobile;%3E+Learning+something+new+every+day;%3E+Turning+ideas+into+useful+products;%3E+Open+to+collaborations+%26+cool+projects" alt="Typing animation" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=00D9A6&center=true&vCenter=true&width=750&lines=%3E+Building+modern+web+experiences;%3E+Exploring+AI+%26+emerging+technologies;%3E+Turning+ideas+into+practical+solutions;%3E+Open+to+collaborations+%26+new+opportunities" alt="Typing animation" /></a>
 
 <a href="https://www.linkedin.com/in/hasitha-sandeepa/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9A6" alt="LinkedIn" /></a>
 <a href="https://www.facebook.com/hasitha.sandeepa.923"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=00D9A6" alt="Facebook" /></a>
@@ -22,39 +22,41 @@
 ```yaml
 name: Hasitha Sandeepa
 location: Sri Lanka 🇱🇰
-education: Undergraduate, Faculty of Technology — University of Ruhuna
-role: Aspiring Software Developer
-interests: [Web Development, Mobile Apps, UI/UX, Open Source]
-current_focus: [React, Flutter]
-working_with: [React, Angular, Flutter, Firebase]
-mindset: "Build. Break. Debug. Learn. Repeat."
+education: ICT Graduate — University of Ruhuna
+role: Senior MIS Officer | ICT Professional
+interests:
+  [Web Development, Artificial Intelligence, Data Management, IT Systems]
+current_focus: [React, MIS Solutions, AI]
+working_with: [React, Angular, JavaScript, PHP, MySQL, Python]
+mindset: "Build. Solve. Improve. Learn. Repeat."
 ```
 
 ### `hasitha@dev:~$ cat about-me.md`
 
-I'm a technology undergraduate who enjoys transforming ideas into practical digital experiences. My interests span **modern web applications**, **cross-platform mobile development**, and creating interfaces that feel as good as they work.
+I'm an ICT graduate with experience in **web development, IT administration, Management Information Systems (MIS), and digital solutions**. I enjoy combining technology and problem-solving to build practical systems, improve workflows, and support data-driven decision-making.
 
-- 🚀 Building skills in **React** and **Flutter**, one project at a time.
-- 🧩 Enjoy solving problems, exploring new tools, and debugging the unexpected.
-- 🌱 Growing through hands-on projects, experimentation, and continuous learning.
-- 🤝 Happy to collaborate on **open-source projects**, apps, and creative ideas.
+- 🚀 Developing modern **web applications** and user-friendly digital experiences.
+- 🖥️ Working with **MIS platforms, data management, and IT administration**.
+- 🧠 Exploring **Artificial Intelligence, machine learning, and emerging technologies**.
+- 🧩 Enjoy solving technical problems, improving systems, and learning new tools.
+- 🤝 Interested in collaborating on meaningful projects, open-source initiatives, and community technology activities.
 - ⚡ Developer motto: `it works on my machine` is only the beginning.
 
 ### `hasitha@dev:~$ ls ./toolbox`
 
 <div align="center">
 
-**Frontend & Mobile**
+**Frontend & Web Development**
 
-<img src="https://skillicons.dev/icons?i=react,angular,flutter,dart,js,css,bootstrap&theme=dark" alt="Frontend and mobile stack" />
+<img src="https://skillicons.dev/icons?i=react,angular,js,html,css,bootstrap&theme=dark" alt="Frontend and web development technologies" />
 
-**Backend, Data & Languages**
+**Backend, Databases & Programming**
 
-<img src="https://skillicons.dev/icons?i=firebase,mysql,py,java,c,php&theme=dark" alt="Backend, data, and programming languages" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,sqlite,py,java&theme=dark" alt="Backend, database, and programming technologies" />
 
-**Design & Developer Tools**
+**Design, Development & IT Tools**
 
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,linux,arduino&theme=dark" alt="Design and development tools" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,linux,arduino&theme=dark" alt="Design, development, and IT tools" />
 
 </div>
 
@@ -67,34 +69,33 @@ I'm a technology undergraduate who enjoys transforming ideas into practical digi
 
 <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasithaSandeepa&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9A6&text_color=DFEAE7&langs_count=8" alt="Most-used languages" />
 
-<sub>Stats are generated by third-party services and may occasionally be unavailable.</sub>
-
 </div>
 
 ### `hasitha@dev:~$ git log --graph --pretty=oneline`
 
 <div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasithaSandeepa&bg_color=0d1117&color=00d9a6&line=00b894&point=ffffff&area=true&area_color=00b894&hide_border=true" alt="Contribution activity graph" />
-
+  <img src="https://raw.githubusercontent.com/HasithaSandeepa/HasithaSandeepa/output/activity-graph.svg" alt="Hasitha Sandeepa Activity Graph" width="95%" />
 </div>
 
 ### `hasitha@dev:~$ cat roadmap.yml`
 
 ```yaml
 now:
-  - Deepen React fundamentals and component architecture
-  - Build polished Flutter mobile experiences
+  - Strengthen React and modern web development skills
+  - Improve MIS solutions and data management workflows
+  - Explore AI and machine learning applications
 next:
-  - Explore scalable app patterns and backend integrations
-  - Contribute to open-source repositories
+  - Build practical, data-driven web solutions
+  - Develop skills in scalable systems and backend integrations
+  - Contribute to open-source and community technology initiatives
 always:
-  - Ship projects, write cleaner code, and stay curious
+  - Solve real-world problems through technology
+  - Write cleaner code and keep learning
 ```
 
 ### `hasitha@dev:~$ ./connect.sh`
 
-Have a project idea, an open-source issue, or a problem worth solving? **Let's build something useful together.**
+Have a project idea, a technical challenge, or an opportunity to collaborate? **Let's build something useful together.**
 
 <div align="center">
 
